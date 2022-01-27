@@ -1,0 +1,8 @@
+{
+  "name": "local sale",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "c6702696"
+}
